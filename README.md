@@ -1,5 +1,8 @@
 # E-Commerce-Data-Analysis And Visualization
 
+![image](https://github.com/user-attachments/assets/5dda6422-2f7e-4e84-9a1f-db13b615a601)
+
+
 
 📊 Overview
 Welcome to the E-Commerce Data Analysis and Visualization project! This repository contains a comprehensive exploratory data analysis (EDA) of an e-commerce dataset, designed to uncover valuable insights into customer behavior, sales trends, and operational efficiency. The dataset consists of 16 columns and 51,290 rows, capturing detailed information about transactions, customer demographics, and product details. Through this project, we aim to provide actionable insights to drive business growth and optimize decision-making processes.
